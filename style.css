@@ -1,0 +1,47 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+
+body {
+    background: white;
+    font-family: "Baloo Tamma 2", cursive;
+  }
+  
+  /* Main Heading Font */
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+    
+  }
+
+  nav{  
+    margin: 20px;;
+  }
+
+  .lead{
+    color: teal
+
+  }
+
+  .main-container{
+    min-height: 50vh;
+    padding-top: 5rem;
+  }
+  
+  .main-row {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+
+  .main-row img{
+    width:20rem;
+    height:25rem;
+    
+  }
+
+  .con{
+    
+    justify-content: center;
+    padding-top: 30vh
+
+  }
